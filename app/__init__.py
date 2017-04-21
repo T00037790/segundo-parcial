@@ -1,0 +1,1 @@
+from .parcial import app
