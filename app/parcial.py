@@ -1,4 +1,4 @@
-from flask import Flask, render_template, jsonify, request, abort, redirect
+from flask import Flask, render_template, jsonify, request, abort, redirect, g
 
 
 app = Flask(__name__)
